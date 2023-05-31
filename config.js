@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'book',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'ManageBac',
+					link: 'https://cai.managebac.com',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Google Docs',
+					link: 'https://docs.google.com/document/u/1/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Office',
+					link: 'https://office.com',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'E-Mail',
+					link: 'https://mail.google.com/mail/u/1/',
 				},
 			],
 		},
@@ -161,16 +161,16 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Github',
+					link: 'https://www.github.com',
 				},
 				{
 					name: 'Dribbble',
 					link: 'https://www.dribbble.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Notion',
+					link: 'https://www.notion.so',
 				},
 				{
 					name: 'Slack',
